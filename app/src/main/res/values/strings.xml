@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Totoro</string>
+    <string name="totoro_title">My Neighbor Totoro</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_umbrella">Open Umbrella</string>
+    <string name="close_umbrella">Close Umbrella</string>
+
+</resources>
